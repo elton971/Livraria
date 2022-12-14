@@ -1,0 +1,61 @@
+ {
+  "books": [
+   {
+    "id": 1,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 1.jpeg",
+    "author": "Mia Couto",
+    "genre": "Romance"
+   },
+   {
+    "id": 2,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 2.jpeg",
+    "author": "Mia Couto",
+    "genre": "Drama"
+   },
+   {
+    "id": 3,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 3.jpeg",
+    "author": "Mia Couto",
+    "genre": "Novela"
+   },
+   {
+    "id": 4,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 4.jpeg",
+    "author": "Mia Couto",
+    "genre": "Cronica"
+   },
+   {
+    "id": 5,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 5.jpeg",
+    "author": "Mia Couto",
+    "genre": "Conto"
+   },
+   {
+    "id": 6,
+    "title": "Antes de nasner o mundo",
+    "img": "./Livro 6.jpeg",
+    "author": "Mia Couto",
+    "genre": "Poesia"
+   },
+   {
+    "id": 7,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 7.jpeg",
+    "author": "Mia Couto",
+    "genre": "Romance"
+   },
+   {
+    "id": 8,
+    "title": "Antes de nasner o mundo",
+    "img": "Livro 8.jpg",
+    "author": "Mia Couto",
+    "genre": "Romance"
+   }
+  ]
+
+ }

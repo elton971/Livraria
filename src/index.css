@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login_Input{
+    @apply flex flex-col gap-3
+}
+.input_Config{
+    @apply outline-none bg-gray-200 h-12 p-5 rounded mb-5
+}
+
+.button-auth{
+    @apply flex justify-center outline-none bg-gray-200 gap-3 w-full p-5 rounded mb-5 hover:bg-gray-500 duration-300
+}
